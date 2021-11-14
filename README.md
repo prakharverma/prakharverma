@@ -1,1 +1,1 @@
-Hi, I am Prakhar! I am a member of AaltoML group at Aalto University, Finland.  
+A machine learning researcher, a computer engineer with experience working with the R&D department of a multi-national company, a start-up, a public sector company, and an NGO. Currently, I focus on developing efficient learning and approximate inference methods for dynamic systems and stochastic differential equation (SDE) models.
